@@ -51,7 +51,7 @@
 
 #bio-container p{
     margin-bottom: 20px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 #bio-container #welcome-text {
@@ -122,7 +122,7 @@
   .description {
     max-width: 75%;
     margin-bottom: 10px;
-    font-size: 18px;
+    font-size: 16px;
   }
   
   #btn-projects {
